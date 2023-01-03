@@ -5,7 +5,6 @@ class Solution {
         }
     
         List<Integer> set = new ArrayList<>();
-        int temp;
 
         while(x!=0){
             set.add(x%10);
